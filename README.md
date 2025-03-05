@@ -6,5 +6,5 @@ A basic Chat Room
 
 [Indev 1.1](https://github.com/Dev-023/Chat-Room/tree/indev-1.1)
 
-# Other Shit
-As always, code is written by a rookie, use it for casual stuff only.
+# Other Stuff
+Warning, coded by a rookie
